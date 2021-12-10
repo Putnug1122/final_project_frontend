@@ -104,7 +104,7 @@ export default {
   },
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'http://localhost:3000',
+    baseURL: 'https://postgres-deta.herokuapp.com/',
   },
   // server 7000
   server: {
